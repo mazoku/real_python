@@ -1,9 +1,8 @@
+env
 venv
-*.*~
-*.idea
 *.pyc
 __pycache__
 *.DS_Store
-project/_config.py
-project/.coverage
-project/htmlcov
+.coverage
+htmlcov
+error.log
